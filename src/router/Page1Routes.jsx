@@ -14,7 +14,7 @@ export const Page1Routes = [
     children: <Page1DetailA />
   },
   {
-    path: "detailB",
+    path: "/detailB",
     exact: false,
     children: <Page1DetailB />
   }
